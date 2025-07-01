@@ -1,4 +1,16 @@
-# 全国学校数据库 (NationalUniversitiesJson)
+# 中国大学数据库 (china-university-database)
+
+<div align="center">
+  
+![Python](https://img.shields.io/badge/Python-3.x-blue)
+![Scrapy](https://img.shields.io/badge/Scrapy-2.x-green)
+![Baidu API](https://img.shields.io/badge/Baidu_Map-API-red)
+![JSON](https://img.shields.io/badge/Data_Format-JSON-orange)
+![Schools](https://img.shields.io/badge/Schools-Nationwide-yellow)
+
+</div>
+
+> **基于百度地图 API 的全国高校数据集，包含地理位置、省市区等完整信息，支持开发者轻松集成。**
 
 ## 项目简介
 
@@ -125,3 +137,9 @@ var ihubo = {
 ## 许可证
 
 MIT
+
+## 👨‍💻 作者
+
+- ZsTs119
+- Email: zsts@foxmail.com
+- GitHub: https://github.com/ZsTs119

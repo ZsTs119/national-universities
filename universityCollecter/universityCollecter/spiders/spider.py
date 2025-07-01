@@ -18,7 +18,7 @@ class SpiderSpider(scrapy.Spider):
     start_urls = []
     schools = []
     #开发者的访问密钥 http://lbsyun.baidu.com/apiconsole/key/create
-    ak="9703TNwEAle9uvFAAxgYjCF05qAACaFu"
+    ak="填入你申请的密钥key"
     #保存的文件名
     file_name="学校.json"
 
